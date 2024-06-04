@@ -1,0 +1,14 @@
+.user-enter-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.user-enter-text {
+  color: black;
+  font-family: roboto;
+  font-weight: bold;
+}
+.list-container {
+  list-style-type: none;
+}
